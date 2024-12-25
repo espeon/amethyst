@@ -1,6 +1,9 @@
 # Amethyst
 The teal.fm app.
 
+> [!IMPORTANT]  
+> This repo has been merged into the main Teal monorepo!
+
 ## What?
 
 This is a [React Native](https://reactnative.dev/) app built with [Expo](https://expo.dev/).
